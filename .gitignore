@@ -1,0 +1,9 @@
+par/db
+par/incremental_db
+par/simulation
+
+par/output_files/*
+!/par/output_files/*.sof
+!/par/output_files/*.jic
+!/par/output_files/*.cdf
+!/par/output_files/*.cof
